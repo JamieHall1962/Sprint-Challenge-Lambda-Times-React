@@ -24,8 +24,7 @@ const Tab = props => {
 // Make sure you include PropTypes on your props.
 
 Tab.propTypes = {
-  tab: PropTypes.string,
-  key : PropTypes.string
+  tab: PropTypes.string
 };
 
 export default Tab;
